@@ -1,1 +1,0 @@
-# Host-Migration-from-vCenter-4.1-to-vCenter-5.X-using-VDS-with-no-VM-Network-interruption-
